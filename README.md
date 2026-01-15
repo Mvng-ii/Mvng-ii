@@ -53,7 +53,7 @@ Computer vision system for automated e-waste classification
 
 **🔹 Secure Cloud Lab**  
 Automated infrastructure with full monitoring stack  
-→ [In Progress - Q1 2025]
+→ [In Progress - Q1 2026]
 
 **🔹 Fintech AI Assistant**  
 High-availability fraud detection system  
